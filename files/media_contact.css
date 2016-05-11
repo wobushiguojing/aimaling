@@ -1,0 +1,21 @@
+#warp{background:url(../images/store/bg.jpg) no-repeat bottom center #cdcdcd; }
+.store_box{margin:60px auto; width:70%;}
+.store_box,.store_box a,.store_box li,.store_box p{color:#222; font-size:14px; text-align:center; line-height:25px; margin-bottom:20px;}
+.store_box h2{display:block; width:100%; font-size:18px; line-height:40px; height:40px; text-align:center; border-bottom:#999 1px dashed; color:#222; margin-bottom:20px;}
+.store_box a:hover{text-decoration:underline;}
+@media screen and (max-width: 1200px) {
+
+}
+
+@media screen and (max-width: 960px) {
+
+
+}
+
+@media screen and (max-width: 720px) {
+.address li{width:100%;}
+}
+
+@media screen and (max-width: 320px) {
+.address li{width:100%;}
+}
